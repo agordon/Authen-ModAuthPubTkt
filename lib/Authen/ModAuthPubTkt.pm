@@ -343,9 +343,9 @@ Refactor into OO interface.
 
 =head1 LICENSE
 
-Copyright (C) 2012 A. Gordon ( gordon at cshl dot edu ).
-
-Apache License, same as the rest of B<mod_auth_pubtkt>
+Copyright (C) 2012,2022 A. Gordon ( assafgordon at gmail dot com ).
+All rights reserved. This module is free software;
+you can redistribute it and/or modify it under the same terms as Perl itself.
 
 =head1 AUTHORS
 

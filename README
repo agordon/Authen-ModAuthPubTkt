@@ -175,9 +175,10 @@ TODO
     Refactor into OO interface.
 
 LICENSE
-    Copyright (C) 2012 A. Gordon ( gordon at cshl dot edu ).
+    Copyright (C) 2012,2022 A. Gordon ( assafgordon at gmail dot com ).
+    All rights reserved. This module is free software;
+    you can redistribute it and/or modify it under the same terms as Perl itself.
 
-    Apache License, same as the rest of mod_auth_pubtkt
 
 AUTHORS
     A. Gordon, heavily based on the PHP code from mod_auth_pubtkt.

@@ -101,10 +101,13 @@ sub show_help
 	my $basename = basename($0);
 	print<<EOF;
 Authen::ModAuthPubTkt command line utility.
-Copyright (C) 2012 by A. Gordon (gordon at cshl dot edu)
-
 This program uses the Authen::ModAuthPubTkt to generate a 'mod_auth_pubtkt'
 compatible ticket string.
+
+
+Copyright (C) 2012,2022 A. Gordon ( assafgordon at gmail dot com ).
+All rights reserved. This module is free software;
+you can redistribute it and/or modify it under the same terms as Perl itself.
 
 Usage:
   # Generate a ticket
